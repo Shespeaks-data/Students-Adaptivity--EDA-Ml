@@ -1,3 +1,3 @@
 # Students-Adaptivity--EDA-Ml
 Following the COVID-19 Pandemic in 2019 which resulted in lockdown of many countries in the world and consequent shut down of educational institutions,online education became a popular concept as it became the only adaptation available in place of traditional schooling. Set in Bangladesh, this dataset is important for analysis because as the world progresses to finding a new normal, it is important for policymakers and stakeholders to be equipped with the right information concerning online education as it affects not only students, but also working class who have had to learn new skills or consolidate old concepts via remote learning
-
+https://github.com/Shespeaks-data/from-kaggle/blob/3d25eb7dcf513592bcb7303ee33b76d39c0e030c/online-learning-adaptivity-eda-ml.ipynb
